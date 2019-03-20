@@ -1,4 +1,4 @@
-# voltus
+# create die model to package mapping
 How to use:
 perl dmap.pl <package mapping file> <spice die model> <outfile name>
 
